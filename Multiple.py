@@ -8,6 +8,7 @@ that takes two integer values and returns True
 if n is a multiple of m.
 --------------
 author Tatyana Royer
+--------------
 '''
 
 def is_multiple(n, m):
