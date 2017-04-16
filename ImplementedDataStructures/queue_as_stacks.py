@@ -1,5 +1,7 @@
 from stackclass import Stack
 
+# this implements a queue as two stacks
+
 class QueueStacks:
 
     def __init__(self):
